@@ -14,10 +14,13 @@ Aviral Agarwal 9919103144
 ## Installation
 
 Clone the git repository on your machine using
+
 git pull https://github.com/scorchy38/OSSD-Project.git
 
 Install the required dependencies using
+
 pip install <dependency name>
   
 Run the project directly using
+
 python ossdProject.py
